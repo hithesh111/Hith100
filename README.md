@@ -1,7 +1,7 @@
 # Hithesh 100 Days ML Challenge (1% completed)
 
-*Day 1 (3rd December)*
-Linear Regression, Logistic Regression and Neural Networks.
+*Day 1 (3rd December)*<br>
+Linear Regression, Logistic Regression and Neural Networks.<br>
 Revised Week 1 to Week 4 of Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day1.md
 
