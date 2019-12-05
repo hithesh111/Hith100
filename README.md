@@ -5,4 +5,7 @@
 Revised Week 1 to Week 4 of Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day1.md
 
-*Day 2 (4th December)*
+<b>Day 2 - Backpropagation, Error Analysis, Bias and Variance</b><br>
+<i>4th December</i></br>
+Revised Week 5 and Week 6 of Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/day2.md
