@@ -50,5 +50,3 @@ Neural Networks
     Examples and Intuitions
     Multi-class Classification
 
-
-Goal for Tomorrow: Revise Backpropagation and implement a Multi-Class Classification from scratch
