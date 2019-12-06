@@ -1,4 +1,4 @@
-# Hithesh 100 Days ML Challenge (2% completed)
+# Hithesh 100 Days ML Challenge (4% completed)
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
