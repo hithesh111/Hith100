@@ -22,7 +22,7 @@ https://github.com/hithesh111/Hith100/blob/master/fifa19playerclustering.ipynb
 
  
 
-Results: 
+Results: (Checkout the python jupyter file using the link above)
 
 
 The last column shows the cluster corresponding to each player and as expected, the goalkeepers are grouped together in De Gea cluster. Ramos cluster includes all defenders and two defensive midfielders. Wingers and a few strikers have found their way into the Messi cluster. De Bruyne cluster has all kinds of attacking minded players which is kind of hard to interpret. I will try to expand this project later on and experiment with more players and more classes.
