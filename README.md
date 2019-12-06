@@ -18,5 +18,5 @@ More: https://github.com/hithesh111/Hith100/blob/master/day3.md
 <b>Day 4 - K-Means Clustering (with FIFA 19 Dataset Project)</b><br>
 <i>6th December</i></br>
 Revised Clustering from Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago and <b>worked on FIFA 19 dataset</b> to cluster a set of football players (using FIFA 19 in-game stats) into 4 classes expecting the clusters to reflect on the position,style and quality of play.</br>
-Project:https://github.com/hithesh111/Hith100/blob/master/fifa19playerclustering.ipynb
+Project:https://github.com/hithesh111/Hith100/blob/master/fifa19playerclustering.ipynb<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day4.md
