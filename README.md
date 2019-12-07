@@ -21,7 +21,7 @@ Revised Clustering from Andrew Ng's Machine Learning course on Coursera which I 
 Project: https://github.com/hithesh111/Hith100/blob/master/fifa19playerclustering.ipynb<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day4.md
 
-<b>Day 4 - Principal Component Analysis (PCA) </b><br>
+<b>Day 5 - Principal Component Analysis (PCA) </b><br>
 <i>7th December</i></br>
 Revised Dimensionality Reduction and Principal Component Analysis from Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day5.md
