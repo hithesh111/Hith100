@@ -1,4 +1,4 @@
-# Hithesh 100 Days ML Challenge (4% completed)
+# Hithesh 100 Days ML Challenge (5% completed)
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -20,3 +20,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/day3.md
 Revised Clustering from Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago and <b>worked on FIFA 19 dataset</b> to cluster a set of football players (using FIFA 19 in-game stats) into 4 classes expecting the clusters to reflect on the position,style and quality of play.</br>
 Project: https://github.com/hithesh111/Hith100/blob/master/fifa19playerclustering.ipynb<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day4.md
+
+<b>Day 4 - Principal Component Analysis (PCA) </b><br>
+<i>7th December</i></br>
+Revised Dimensionality Reduction and Principal Component Analysis from Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/day5.md
