@@ -1,4 +1,4 @@
-# Hithesh 100 Days ML Challenge (5% completed)
+# Hithesh 100 Days ML Challenge (7% completed)
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -25,3 +25,14 @@ More: https://github.com/hithesh111/Hith100/blob/master/day4.md
 <i>7th December</i></br>
 Revised Dimensionality Reduction and Principal Component Analysis from Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day5.md
+
+<b>Day 6 - Anomaly Detection </b><br>
+<i>7th December</i></br>
+Revised Anomaly Detection from Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago and started working on Credit Card Transaction Dataset to detect fraudulent transactions.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/day5.md
+
+<b>Day 7 - Anomaly Detection (Credit Card Fraud Transactions Project)</b><br>
+<i>9th December</i></br>r
+Completed the Credit Card Fraud Detection Project using Anomaly Detection algorithm.<br>
+Project: https://github.com/hithesh111/Hith100/blob/master/creditcardfraud.ipynb<br>
+More: https://github.com/hithesh111/Hith100/blob/master/day7.md
