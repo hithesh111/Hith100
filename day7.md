@@ -7,7 +7,7 @@ Completed the Credit Card Fraud Detection Project using Anomaly Detection algori
 
 Project: Found out features which have the highest covariances with the fraud/not fraud column among a total of 30 columns. Trained the model using normal probability distribution assumptions on 60% of rows classified as non-fraud, evaluated the algorithm and tuned the decision boundary parameter for the probability (epsilon) based on highest F1-score on the cross validation set (20% of rows classified as non-fraud and 50% of rows classified as fraud), used this model to predict on the test (remaining 20% of rows classified as non-fraud and 50% of rows classified as fraud)
 
-Results: Out of 57109 transactions (99.57% non-fraud and 0.43% fraud) in the test set, 246  were fraud transactions and the algorithm detected 124 of them along with 41 false positives.
+Results: Out of 57109 transactions (99.57% non-fraud and 0.43% fraud) in the test set, 246  were fraud transactions and the algorithm detected 124 of them restricting false positives to 41.
 
 Accuracy is over 99.71% (but it's not a good measure of performance for skewed data like in this case. Note that even predicting all non-fraud will give an accuracy of 99.57%)
 
