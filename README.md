@@ -27,7 +27,7 @@ Revised Dimensionality Reduction and Principal Component Analysis from Andrew Ng
 More: https://github.com/hithesh111/Hith100/blob/master/day5.md
 
 <b>Day 6 - Anomaly Detection </b><br>
-<i>7th December</i></br>
+<i>8th December</i></br>
 Revised Anomaly Detection from Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago and started working on Credit Card Transaction Dataset to detect fraudulent transactions.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day5.md
 
