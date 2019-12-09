@@ -32,7 +32,7 @@ Revised Anomaly Detection from Andrew Ng's Machine Learning course on Coursera w
 More: https://github.com/hithesh111/Hith100/blob/master/day5.md
 
 <b>Day 7 - Anomaly Detection (Credit Card Fraud Transactions Project)</b><br>
-<i>9th December</i></br>r
+<i>9th December</i></br>
 Completed the Credit Card Fraud Detection Project using Anomaly Detection algorithm.<br>
 Project: https://github.com/hithesh111/Hith100/blob/master/creditcardfraud.ipynb<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day7.md
