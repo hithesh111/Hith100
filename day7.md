@@ -9,7 +9,7 @@ Project: Found out features which have the highest covariances with the fraud/no
 
 Results: Out of 57109 transactions (99.57% non-fraud and 0.43% fraud) in the test set, 246  were fraud transactions and the algorithm detected 124 of them restricting false positives to 41.
 
-Accuracy is over 99.71% (but it's not a good measure of performance for skewed data like in this case. Note that even predicting all non-fraud will give an accuracy of 99.57%)
+In other words, 50.4% of fraud transactions were detected and only 0.07% of non-fraud transactions were flagged wrong.
 
 Jupyter Notebook file: https://github.com/hithesh111/Hith100/blob/master/creditcardfraud.ipynb
 
