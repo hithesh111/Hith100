@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (7% completed)</h1>
+<h1>100 Days ML Challenge (8% completed)</h1>
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -36,3 +36,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/day6.md
 Completed the Credit Card Fraud Detection Project using Anomaly Detection algorithm.<br>
 Project: https://github.com/hithesh111/Hith100/blob/master/creditcardfraud.ipynb<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day7.md
+
+<b>Day 8 - Recommender Systems </b><br>
+<i>10th December</i></br>
+Revised Recommender Systems from Week 9 of Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/day8.md
