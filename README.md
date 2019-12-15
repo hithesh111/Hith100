@@ -65,7 +65,7 @@ More: https://github.com/hithesh111/Hith100/blob/master/day011.md
 Learnt about Regression Trees from StatQuest YouTube Channel<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day012.md
 
-<b>Day 13 -  Gradient Boost/b><br>
+<b>Day 13 -  Gradient Boost</b><br>
 <i>15th December</i></br>
 Learnt about Gradient Boosting from videos on Statquest Youtube channel <br>
 More: https://github.com/hithesh111/Hith100/blob/master/day013.md
