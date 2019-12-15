@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (10% completed)</h1><br>
+<h1>100 Days ML Challenge (13% completed)</h1><br>
 
 I update these on https:hitheshai.blogspot.com first.
 
