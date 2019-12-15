@@ -1,6 +1,6 @@
 <h1>100 Days ML Challenge (13% completed)</h1><br>
 
-I update these on https:hitheshai.blogspot.com first.
+I update these on https://hitheshai.blogspot.com first.
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
