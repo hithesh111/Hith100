@@ -1,4 +1,6 @@
-<h1>100 Days ML Challenge (10% completed)</h1>
+<h1>100 Days ML Challenge (10% completed)</h1><br>
+
+I update these on https:hitheshai.blogspot.com first.
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -52,3 +54,18 @@ More: https://github.com/hithesh111/Hith100/blob/master/day009.md
 <i>12th December</i></br>
 Learnt about Decision Trees and Random Forests from StatQuest Youtube channel<br>
 More: https://github.com/hithesh111/Hith100/blob/master/day010.md
+
+<b>Day 11 - Days 1 - 10 Review and Quizzes</b><br>
+<i>13th December</i></br>
+Took quizzes on few topics covered in days 1-10, filled gaps in understanding certain concepts, cleared some doubts and found some new and related information.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/day011.md
+
+<b>Day 12 - Regression Trees</b><br>
+<i>14th December</i></br>
+Learnt about Regression Trees from StatQuest YouTube Channel<br>
+More: https://github.com/hithesh111/Hith100/blob/master/day012.md
+
+<b>Day 13 -  Gradient Boost/b><br>
+<i>15th December</i></br>
+Learnt about Gradient Boosting from videos on Statquest Youtube channel <br>
+More: https://github.com/hithesh111/Hith100/blob/master/day013.md
