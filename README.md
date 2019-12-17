@@ -54,6 +54,7 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-9-gradient-d
 <i>12th December</i></br>
 Learnt about Decision Trees and Random Forests from StatQuest Youtube channel<br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-10-decision-trees-and-random-forests.html
+
 <b>Day 11 - Days 1 - 10 Review and Quizzes</b><br>
 <i>13th December</i></br>
 Took quizzes on few topics covered in days 1-10, filled gaps in understanding certain concepts, cleared some doubts and found some new and related information.<br>
