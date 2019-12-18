@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (15% completed)</h1><br>
+<h1>100 Days ML Challenge (16% completed)</h1><br>
 
 I update these on https://hitheshai.blogspot.com first.
 
@@ -80,4 +80,12 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-14-datasets-
 Entered House Price Prediction Competition on Kaggle and tried various methods of preprocessing the data and selecting features learnt yesterday. <br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-15-kaggle-house-price-prediction-competition-preprocessing-and-feature-selection.html
 
+<b>Day 15 -  Kaggle House Price Prediction Competition Preprocessing and Feature Selection</b><br>
+<i>17th December</i></br>
+Entered House Price Prediction Competition on Kaggle and tried various methods of preprocessing the data and selecting features learnt yesterday. <br>
+More:https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-16-kaggle-house-price-prediction-competition-part1.html
 
+<b>Day 16 -  Kaggle House Price Prediction Competition Preprocessing and Feature Selection</b><br>
+<i>18th December</i></br>
+Found and created more meaningful features and tuned Random Forest thresholds. Best submission gave a MSE of log error value of 0.15600 and was ranked 3729/5775.<br>
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-16-kaggle-house-price-prediction-competition-part2.html
