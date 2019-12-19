@@ -93,4 +93,4 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-16-kaggle-ho
 <b>Day 17 - Kaggle House Price Prediction Competition Part 3 </b><br>
 <i>19th December</i></br>
 Tried to tune the random forest and played around with the Random Forest parameters even more. Tried Gradient Boost. Made very slight progress in the score (0.15522)<br>
-More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-17-kaggle-house-price-prediction-competition-part3.html
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-17-kaggle-house-price-prediction-competition-part-3.html
