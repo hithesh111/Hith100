@@ -70,15 +70,10 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-12-regressio
 Learnt about Gradient Boosting from videos on Statquest Youtube channel <br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-13-gradient-boost.html
 
-<b>Day 14 -  Kaggle House Price Prediction Competition Preprocessing and Feature Selection</b><br>
+<b>Day 14 -  Datasets and Feature Engineering</b><br>
 <i>16th December</i></br>
 Learnt feature engineering methods from Krish Naik's Youtube channel and videos from How to Win a Data Science Competition Course on Youtube <br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-14-datasets-and-feature-engineering.html
-
-<b>Day 15 -  Kaggle House Price Prediction Competition Preprocessing and Feature Selection</b><br>
-<i>17th December</i></br>
-Entered House Price Prediction Competition on Kaggle and tried various methods of preprocessing the data and selecting features learnt yesterday. <br>
-More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-15-kaggle-house-price-prediction-competition-preprocessing-and-feature-selection.html
 
 <b>Day 15 - Kaggle House Price Prediction Competition Part 1 </b><br>
 <i>17th December</i></br>
