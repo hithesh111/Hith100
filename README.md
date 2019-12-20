@@ -98,5 +98,5 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-17-kaggle-ho
 <b>Day 18 - Kaggle House Price Prediction Competition Part 4 (Summary) </b><br>
 <i>20th December</i></br>
 Tried encoding various variables according to how they correlate with the SalePrice and played around with Linear Regression and GradientBoosting parameters. Made slight progress and jumped few steps on the leaderboard.<br>
-More:https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-18-kaggle-house-price-prediction-competition-part-4-summary.html
+More:https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-18-kaggle-house-price-prediction-competition-part-4-summary.html<br>
 Code: https://github.com/hithesh111/Hith100/blob/master/house_price_competition_kaggle.ipynb 
