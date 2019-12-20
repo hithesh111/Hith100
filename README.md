@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (17% completed)</h1><br>
+<h1>100 Days ML Challenge (18% completed)</h1><br>
 
 I update these on https://hitheshai.blogspot.com first.
 
@@ -94,3 +94,9 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-16-kaggle-ho
 <i>19th December</i></br>
 Tried to tune the random forest and played around with the Random Forest parameters even more. Tried Gradient Boost. Made very slight progress in the score (0.15522)<br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-17-kaggle-house-price-prediction-competition-part-3.html
+
+<b>Day 18 - Kaggle House Price Prediction Competition Part 4 (Summary) </b><br>
+<i>20th December</i></br>
+Tried encoding various variables according to how they correlate with the SalePrice and played around with Linear Regression and GradientBoosting parameters. Made slight progress and jumped few steps on the leaderboard.<br>
+More:https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-18-kaggle-house-price-prediction-competition-part-4-summary.html
+Code: https://github.com/hithesh111/Hith100/blob/master/house_price_competition_kaggle.ipynb 
