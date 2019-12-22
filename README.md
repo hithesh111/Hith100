@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (18% completed)</h1><br>
+<h1>100 Days ML Challenge (20% completed)</h1><br>
 
 I update these on https://hitheshai.blogspot.com first.
 
@@ -95,3 +95,13 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-17-kaggle-ho
 Tried encoding various variables according to how they correlate with the SalePrice and played around with Linear Regression and GradientBoosting parameters. Made slight progress and jumped few steps on the leaderboard.<br>
 More:https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-18-kaggle-house-price-prediction-competition-part-4-summary.html<br>
 Code: https://github.com/hithesh111/Hith100/blob/master/house_price_competition_kaggle.ipynb 
+
+<b>Day 19 - San Franscisco Crime Classification Competition Part 1 </b><br>
+<i>21st December</i></br>
+ Started working on Kaggle San Francisco Crime Classification competition.<br>
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-19-san-francisco-crime-classification-competition-part-1.html
+
+<b>Day 20 - San Franscisco Crime Classification Competition Part 2 </b><br>
+<i>22nd December</i></br>
+Tried to modify the data to create useful labels for the model. <br>
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-20-san-francisco-crime-classification-competition-part-2.html
