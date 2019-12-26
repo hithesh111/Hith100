@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (20% completed)</h1><br>
+<h1>100 Days ML Challenge (24% completed)</h1><br>
 
 I update these on https://hitheshai.blogspot.com first.
 
@@ -105,3 +105,23 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-19-san-franc
 <i>22nd December</i></br>
 Tried to modify the data to create useful labels for the model. <br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-20-san-francisco-crime-classification-competition-part-2.html
+
+<b>Day 21 - Deep Learning Prerequisites </b><br>
+<i>23rd December</i></br>
+Skimmed through Part I (prerequisites for rest of the book) of Ian Goodfellow's Deep Learning book at deeplearningbook.org <br>
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-21-deep-learning-prerequisites.html
+
+<b>Day 22 - Neural Networks and Deep Learning W1 </b><br>
+<i>24th December</i></br>
+Watched videos of Week 1 of Neural Networks and Deep Learning by deeplearning.ai on Youtube <br>
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-22-neural-networks-and-deep-learning-week-1.html
+
+<b>Day 23 - Neural Networks and Deep Learning W2 </b><br>
+<i>25th December</i></br>
+Watched videos of Week 2 of Neural Networks and Deep Learning by deeplearning.ai on Youtube <br>
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-23-neural-networks-and-deep-learning-week-2.html
+
+<b>Day 24 - Neural Networks and Deep Learning W3 </b><br>
+<i>26th December</i></br>
+Watched videos of Week 2 and Week 3 of Neural Networks and Deep Learning by deeplearning.ai on Youtube <br>
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-24-neural-networks-and-deep-learning-week-3.html
