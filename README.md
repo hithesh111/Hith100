@@ -78,7 +78,7 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-14-datasets-
 <b>Day 15 - Kaggle House Price Prediction Competition Part 1 </b><br>
 <i>17th December</i></br>
 Entered House Price Prediction Competition on Kaggle and tried various methods of preprocessing the data and selecting features learnt yesterday. <br>
-More:https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-16-kaggle-house-price-prediction-competition-part1.html
+More:https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-15-kaggle-house-price-prediction-competition-part1.html
 
 <b>Day 16 - Kaggle House Price Prediction Competition Part 2 </b><br>
 <i>18th December</i></br>
