@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (24% completed)</h1><br>
+<h1>100 Days ML Challenge (27% completed)</h1><br>
 
 I update these on https://hitheshai.blogspot.com first.
 
@@ -125,3 +125,19 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-23-neural-ne
 <i>26th December</i></br>
 Watched videos of Week 2 and Week 3 of Neural Networks and Deep Learning by deeplearning.ai on Youtube <br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-24-neural-networks-and-deep-learning-week-3.html
+
+<b>Day 25 - Neural Networks and Deep Learning W4 </b><br>
+<i>27th December</i></br>
+Watched videos of Week 4 of Neural Networks and Deep Learning by deeplearning.ai on Youtube <br>
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-25-neural-networks-and-deep-learning-week-4.html
+
+<b>Day 26 - Deep Neural Network Implementation </b><br>
+<i>28th December</i></br>
+Tried implementing a deep neural network with 4 layers to approximate complex functions added with normally distributed noise.<br>
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-24-neural-networks-and-deep-learning-week-3.html
+
+<b>Day 27 - Linear Regression using Gradient Descent </b><br>
+<i>29th December</i></br>
+Implemented Linear Regression using Gradient Descent using only numpy matrix operations.<br>
+Code: https://github.com/hithesh111/Hith100/blob/master/linear_regression_gradient_descent.ipynb <br>
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-27-linear-regression-and-gradient-descent-from-scratch.html
