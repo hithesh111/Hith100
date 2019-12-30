@@ -1,7 +1,5 @@
 <h1>100 Days ML Challenge (28% completed)</h1><br>
 
-I update these on https://hitheshai.blogspot.com first.
-
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
 Revised Week 1 to Week 4 of Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago.<br>
@@ -144,5 +142,5 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-27-linear-re
 
 <b>Day 28 - Neural Networks and Deep Learning W4 </b><br>
 <i>30th December</i></br>
-Watched some videos from Hyperparameter Tuning, Regularization and Optimization course which is Part 2 of Coursera Deep Learning Specialization on Youtube. Week 1 <br>
+Watched some videos from Week 1 of Hyperparameter Tuning, Regularization and Optimization course which is Part 2 of Coursera Deep Learning Specialization on Youtube<br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-28-hyperparameter-tuning-regularization-and-optimization-week-1-part-1.html
