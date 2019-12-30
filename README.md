@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (27% completed)</h1><br>
+<h1>100 Days ML Challenge (28% completed)</h1><br>
 
 I update these on https://hitheshai.blogspot.com first.
 
@@ -141,3 +141,8 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-24-neural-ne
 Implemented Linear Regression using Gradient Descent using only numpy matrix operations.<br>
 Code: https://github.com/hithesh111/Hith100/blob/master/linear_regression_gradient_descent.ipynb <br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-27-linear-regression-and-gradient-descent-from-scratch.html
+
+<b>Day 28 - Neural Networks and Deep Learning W4 </b><br>
+<i>30th December</i></br>
+Watched some videos from Hyperparameter Tuning, Regularization and Optimization course which is Part 2 of Coursera Deep Learning Specialization on Youtube. Week 1 <br>
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-28-hyperparameter-tuning-regularization-and-optimization-week-1-part-1.html
