@@ -143,9 +143,9 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-27-linear-re
 <b>Day 28 - Regularization of Deep Neural Networks</b><br>
 <i>30th December</i></br>
 Watched some videos from Week 1 of Hyperparameter Tuning, Regularization and Optimization course which is Part 2 of Coursera Deep Learning Specialization on Youtube<br>
-More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-28-hyperparameter-tuning-regularization-and-optimization-week-1-part-1.html
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-28-regularization-of-deep-neural-networks.html
 
 <b>Day 29 - Exploding weights and Gradient Checking</b><br>
 <i>31st December</i></br>
 Watched remaining videos from Week 1 of Hyperparameter Tuning, Regularization and Optimization course which is Part 2 of Coursera Deep Learning Specialization on Youtube.<br>
-More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-28-hyperparameter-tuning-regularization-and-optimization-week-1-part-2.html
+More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-29-exploding-weights-and-gradient-checking.html
