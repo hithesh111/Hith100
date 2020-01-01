@@ -1,5 +1,8 @@
 <h1>100 Days ML Challenge (30% completed)</h1><br>
 
+Mini-Projects, Competitions and Code:
+Day 4, Day 7, Day 18, Day 26
+
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
 Revised Week 1 to Week 4 of Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago.<br>
@@ -41,7 +44,6 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-7-anomaly-de
 <i>10th December</i></br>
 Revised Recommender Systems from Week 9 of Andrew Ng's Machine Learning course on Coursera which I had already completed a few months ago.<br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-8-recommender-systems.html
-
 
 <b>Day 9 - Gradient Descent with Large Datasets, Online Learning, Photo OCR </b><br>
 <i>11th December</i></br>
