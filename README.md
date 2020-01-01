@@ -1,7 +1,7 @@
 <h1>100 Days ML Challenge (30% completed)</h1><br>
 
-Mini-Projects, Competitions and Code:<br>
-Day 4, Day 7, Day 18, Day 26
+Mini-Projects, Competitions and Implementations: <br>
+| Day 4 | Day 7 | Day 18 | Day 27 |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
