@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (29% completed)</h1><br>
+<h1>100 Days ML Challenge (30% completed)</h1><br>
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -149,3 +149,8 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-28-regulariz
 <i>31st December</i></br>
 Watched remaining videos from Week 1 of Hyperparameter Tuning, Regularization and Optimization course which is Part 2 of Coursera Deep Learning Specialization on Youtube.<br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-29-exploding-weights-and-gradient-checking.html
+
+<b>Day 30 -  Mini-Batch Gradient Descent, Exponentially Weighted Averages </b><br>
+<i>1st January 2020</i></br>
+Watched videos from Week 2 of Hyperparameters, Regularization and Optimization Course on Youtube.<br>
+More: https://hitheshai.blogspot.com/2020/01/100-days-challenge-day-30-mini-batch-gradient-descent-exponentially-weighted-averages.html
