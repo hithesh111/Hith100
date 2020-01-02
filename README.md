@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (30% completed)</h1><br>
+<h1>100 Days ML Challenge (31% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 |
@@ -156,3 +156,8 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-29-exploding
 <i>1st January 2020</i></br>
 Watched videos from Week 2 of Hyperparameters, Regularization and Optimization Course on Youtube.<br>
 More: https://hitheshai.blogspot.com/2020/01/100-days-challenge-day-30-mini-batch-gradient-descent-exponentially-weighted-averages.html
+
+<b>Day 31 - Tuning Process </b><br>
+<i>2nd January</i></br>
+Watched some videos from Week 3 of Hyperparameters, Regularization and Optimization Course on Youtube.<br>
+More: https://hitheshai.blogspot.com/2020/01/100-days-challenge-day-31-tuning-process.html
