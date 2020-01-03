@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (31% completed)</h1><br>
+<h1>100 Days ML Challenge (32% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 |
@@ -161,3 +161,8 @@ More: https://hitheshai.blogspot.com/2020/01/100-days-challenge-day-30-mini-batc
 <i>2nd January</i></br>
 Watched some videos from Week 3 of Hyperparameters, Regularization and Optimization Course on Youtube.<br>
 More: https://hitheshai.blogspot.com/2020/01/100-days-challenge-day-31-tuning-process.html
+
+<b>Day 32 - Batch Normalization </b><br>
+<i>3rd January</i></br>
+Watched some videos from Week 3 of Hyperparameters, Regularization and Optimization Course on Youtube.<br>
+More: https://hitheshai.blogspot.com/2020/01/100-days-challenge-day-32-batch-normalization.html
