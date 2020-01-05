@@ -1,7 +1,7 @@
-<h1>100 Days ML Challenge (33% completed)</h1><br>
+<h1>100 Days ML Challenge (34% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
-| Day 4 | Day 7 | Day 18 | Day 27 |
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -171,3 +171,9 @@ More: https://hitheshai.blogspot.com/2020/01/100-days-challenge-day-32-batch-nor
 <i>4th January</i></br>
 Watched remaining videos from Week 3 of Hyperparameters, Regularization and Optimization Course on Youtube.<br>
 More: https://hitheshai.blogspot.com/2020/01/100-days-challenge-day-33-softmax-classifier.html
+
+<b>Day 34 - Logistic Regression from Scratch </b><br>
+<i>5th January</i></br>
+Implemented Logisic Regression using only numpy matrix operations.<br>
+Code: https://github.com/hithesh111/Hith100/blob/master/logistic_regression_from_scratch.ipynb <br>
+
