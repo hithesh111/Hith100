@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (34% completed)</h1><br>
+<h1>100 Days ML Challenge (35% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 |
@@ -177,3 +177,7 @@ More: https://hitheshai.blogspot.com/2020/01/100-days-challenge-day-33-softmax-c
 Implemented Logisic Regression using only numpy matrix operations.<br>
 Code: https://github.com/hithesh111/Hith100/blob/master/logistic_regression_from_scratch.ipynb <br>
 
+<b>Day 35 - Metrics and Train/Dev/Test Split </b><br>
+<i>6th January</i></br>
+Watched some videos from Week 1 of Structuring Machine Learning Projects Course on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/100days/day035.ipynb
