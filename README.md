@@ -180,4 +180,4 @@ Code: https://github.com/hithesh111/Hith100/blob/master/logistic_regression_from
 <b>Day 35 - Metrics and Train/Dev/Test Split </b><br>
 <i>6th January</i></br>
 Watched some videos from Week 1 of Structuring Machine Learning Projects Course on Youtube.<br>
-More: https://github.com/hithesh111/Hith100/blob/master/Days/day035.ipynb
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day035.ipynb
