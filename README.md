@@ -1,4 +1,4 @@
-<h1>100 Days ML Challenge (35% completed)</h1><br>
+<h1>100 Days of ML Code (35% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 |
