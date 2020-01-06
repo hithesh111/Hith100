@@ -136,7 +136,7 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-25-neural-ne
 Tried implementing a deep neural network with 4 layers to approximate complex functions added with normally distributed noise.<br>
 More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-24-neural-networks-and-deep-learning-week-3.html
 
-<b>Day 27 - Linear Regression using Gradient Descent </b><br>
+<b>Day 27 - Linear Regression from Scratch</b><br>
 <i>29th December</i></br>
 Implemented Linear Regression using Gradient Descent using only numpy matrix operations.<br>
 Code: https://github.com/hithesh111/Hith100/blob/master/linear_regression_gradient_descent.ipynb <br>
