@@ -181,3 +181,8 @@ Code: https://github.com/hithesh111/Hith100/blob/master/logistic_regression_from
 <i>6th January</i></br>
 Watched some videos from Week 1 of Structuring Machine Learning Projects Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day035.ipynb
+
+<b>Day 36 - Polynomial Regression from Scratch </b><br>
+<i>7th January</i></br>
+Implemented Polynomial Regression using only numpy matrix operations.<br>
+Code: https://github.com/hithesh111/Hith100/blob/master/100Days/day036.ipynb <br>
