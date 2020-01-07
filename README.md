@@ -139,8 +139,7 @@ More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-24-neural-ne
 <b>Day 27 - Linear Regression from Scratch</b><br>
 <i>29th December</i></br>
 Implemented Linear Regression using Gradient Descent using only numpy matrix operations.<br>
-Code: https://github.com/hithesh111/Hith100/blob/master/linear_regression_gradient_descent.ipynb <br>
-More: https://hitheshai.blogspot.com/2019/12/100-days-challenge-day-27-linear-regression-and-gradient-descent-from-scratch.html
+Code: https://github.com/hithesh111/Hith100/blob/master/Implementations/linear_regression_gradient_descent.ipynb <br>
 
 <b>Day 28 - Regularization of Deep Neural Networks</b><br>
 <i>30th December</i></br>
@@ -175,7 +174,7 @@ More: https://hitheshai.blogspot.com/2020/01/100-days-challenge-day-33-softmax-c
 <b>Day 34 - Logistic Regression from Scratch </b><br>
 <i>5th January</i></br>
 Implemented Logisic Regression using only numpy matrix operations.<br>
-Code: https://github.com/hithesh111/Hith100/blob/master/logistic_regression_from_scratch.ipynb <br>
+Code: https://github.com/hithesh111/Hith100/blob/master/Implementations/logistic_regression_from_scratch.ipynb <br>
 
 <b>Day 35 - Metrics and Train/Dev/Test Split </b><br>
 <i>6th January</i></br>
