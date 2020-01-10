@@ -1,7 +1,7 @@
-<h1>100 Days of ML (38% completed)</h1><br>
+<h1>100 Days of ML (39% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 |
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39 |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -195,3 +195,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day037.ipynb
 <i>8th January</i></br>
 Watched videos from Week 2 of Structuring Machine Learning Projects Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day038.ipynb
+
+<b>Day 39 -  HackerEarth Airplane Accident Severity Challenge </b><br>
+<i>10th January</i></br>
+Participated in Airplane Accident Severity Classification Challenge on Hackerearth, made submission. Competition ends on 9th February. Currently 15th out of 80 on the leaderboard. Will upload the code once the competition is over.<br>
+Competition Details and More: https://hitheshai.blogspot.com/2020/01/100-days-of-ml-day-39-hackerearth-airplane-accident-severity-challenge.html
