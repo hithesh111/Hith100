@@ -1,7 +1,7 @@
 <h1>100 Days of ML (39% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39 |
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
