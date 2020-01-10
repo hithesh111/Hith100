@@ -198,5 +198,5 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day038.ipynb
 
 <b>Day 39 -  HackerEarth Airplane Accident Severity Challenge </b><br>
 <i>10th January</i></br>
-Participated in Airplane Accident Severity Classification Challenge on Hackerearth, made submission. Competition ends on 9th February. Currently 15th out of 80 on the leaderboard. Will upload the code once the competition is over.<br>
+Participated in Airplane Accident Severity Classification Challenge on Hackerearth, made submission. Competition ends on 9th February. Currently 17th out of 520 on the leaderboard. Will upload the code once the competition is over.<br>
 Competition Details and More: https://hitheshai.blogspot.com/2020/01/100-days-of-ml-day-39-hackerearth-airplane-accident-severity-challenge.html
