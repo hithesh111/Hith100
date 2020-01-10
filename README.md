@@ -192,7 +192,7 @@ Watched remaining videos from Week 1 of Structuring Machine Learning Projects Co
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day037.ipynb
 
 <b>Day 38 - Error Analysis </b><br>
-<i>8th January</i></br>
+<i>9th January</i></br>
 Watched videos from Week 2 of Structuring Machine Learning Projects Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day038.ipynb
 
