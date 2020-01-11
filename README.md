@@ -202,6 +202,6 @@ Participated in Airplane Accident Severity Classification Challenge on Hackerear
 Competition Details and More: https://hitheshai.blogspot.com/2020/01/100-days-of-ml-day-39-hackerearth-airplane-accident-severity-challenge.html
 
 <b>Day 40 -  Kaggle Titanic Disaster Survival Challenge </b><br>
-<i>10th January</i></br>
+<i>11th January</i></br>
 Participated in Titanic Survival Classification Challenge on Kaggle. Currenly top 18% on the leaderboard.<br>
 Code: https://www.kaggle.com/hithesh111/kernel13c856e03f?scriptVersionId=26695158
