@@ -1,4 +1,4 @@
-<h1>100 Days of ML (40% completed)</h1><br>
+<h1>100 Days of ML (41% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 |
@@ -205,3 +205,8 @@ Competition Details and More: https://hitheshai.blogspot.com/2020/01/100-days-of
 <i>11th January</i></br>
 Participated in Titanic Survival Classification Challenge on Kaggle. Currenly top 18% on the leaderboard.<br>
 Code: https://www.kaggle.com/hithesh111/kernel13c856e03f?scriptVersionId=26695158
+
+<b>Day 41 - Data Mismatch </b><br>
+<i>12th January</i></br>
+Watched videos from Week 2 of Structuring Machine Learning Projects Course on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day041.ipynb
