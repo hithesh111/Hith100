@@ -1,4 +1,4 @@
-<h1>100 Days of ML (42% completed)</h1><br>
+<h1>100 Days of ML (43% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 |
@@ -215,3 +215,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day041.ipynb
 <i>13th January</i></br>
 Watched remaining videos from Week 2 of Structuring Machine Learning Projects Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day042.ipynb
+
+<b>Day 43 - AdaBoost </b><br>
+<i>14th January</i></br>
+Watched a video about AdaBoost Model Course on StatQuest Channel on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day043.ipynb
