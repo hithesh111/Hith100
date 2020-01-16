@@ -1,4 +1,4 @@
-<h1>100 Days of ML (44% completed)</h1><br>
+<h1>100 Days of ML (45% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 |
@@ -225,4 +225,9 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day043.ipynb
 <i>15th January</i></br>
 Watched a video about Distplots on Seaborn from Data Talks Youtube Channel and played around with important parameters.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day044.ipynb
+
+<b>Day 45 - Seaborn: kdeplos </b><br>
+<i>16th January</i></br>
+Watched a video about kdeplots on Seaborn from Data Talks Youtube Channel and played around with important parameters.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day045.ipynb
 
