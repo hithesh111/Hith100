@@ -1,4 +1,4 @@
-<h1>100 Days of ML (46% completed)</h1><br>
+<h1>100 Days of ML (47% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 |
@@ -234,4 +234,9 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day045.ipynb
 <b>Day 46 - Seaborn: pairplots </b><br>
 <i>17th January</i></br>
 Watched a video about pairplots on Seaborn from Data Talks Youtube Channel and played around with important parameters.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day046.ipynb
+
+<b>Day 47 - Seaborn: stripplots and swarmplots </b><br>
+<i>18th January</i></br>
+Watched a video about stripplots and swarmplots on Seaborn from Data Talks Youtube Channel and played around with important parameters.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day046.ipynb
