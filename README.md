@@ -1,7 +1,7 @@
-<h1>100 Days of ML (47% completed)</h1><br>
+<h1>100 Days of ML (48% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 |
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | 44-48 |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -240,3 +240,9 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day046.ipynb
 <i>18th January</i></br>
 Watched a video about stripplots and swarmplots on Seaborn from Data Talks Youtube Channel and played around with important parameters.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day047.ipynb
+
+<b>Day 48 - Seaborn: boxplots and jointplots </b><br>
+<i>19th January</i></br>
+Watched a video about boxplots and swarmplots on Seaborn from Data Talks Youtube Channel and played around with important parameters.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day048.ipynb
+
