@@ -1,7 +1,7 @@
-<h1>100 Days of ML (49% completed)</h1><br>
+<h1>100 Days of ML (50% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | 44-49 |
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | 44-50 |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -250,3 +250,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day048.ipynb
 <i>20th January</i></br>
 Watched a video about violinplots on Seaborn from Data Talks Youtube Channel and played around with important parameters.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day049.ipynb
+
+<b>Day 50 - Seaborn: lmplots </b><br>
+<i>21st January</i></br>
+Watched a video about lmplots on Seaborn from Data Talks Youtube Channel and played around with important parameters.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day050.ipynb
