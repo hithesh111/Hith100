@@ -1,7 +1,7 @@
-<h1>100 Days of ML (51% completed)</h1><br>
+<h1>100 Days of ML (52% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | 44-51 |
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | 44-52 |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -260,3 +260,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day050.ipynb
 <i>22nd January</i></br>
 Watched a video about pointplots,barplots and countplots on Seaborn from Data Talks Youtube Channel and played around with important parameters.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day051.ipynb
+
+<b>Day 52 - Seaborn: catplots,heatmaps  </b><br>
+<i>23rd January</i></br>
+Watched a video about catplots,heatmaps on Seaborn from Data Talks Youtube Channel and played around with important parameters.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day052.ipynb
