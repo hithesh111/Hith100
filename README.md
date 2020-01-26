@@ -275,3 +275,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day053.ipynb
 <i>25th January</i></br>
 Watched lectures from Week 1 of Convolutional Neural Networks Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day054.ipynb
+
+<b>Day 55 - Layers in CNN </b><br>
+<i>26th January</i></br>
+Watched lectures from Week 1 of Convolutional Neural Networks Course on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day055.ipynb
