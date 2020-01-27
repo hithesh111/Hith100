@@ -1,4 +1,4 @@
-<h1>100 Days of ML (55% completed)</h1><br>
+<h1>100 Days of ML (56% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | 44-53 |
@@ -280,3 +280,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day054.ipynb
 <i>26th January</i></br>
 Watched lectures from Week 1 of Convolutional Neural Networks Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day055.ipynb
+
+<b>Day 56 - Classic CNN Architectures and ResNets </b><br>
+<i>27th January</i></br>
+Watched lectures from Week 2 of Convolutional Neural Networks Course on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day056.ipynb
