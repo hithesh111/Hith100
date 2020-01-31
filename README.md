@@ -1,4 +1,4 @@
-<h1>100 Days of ML (59% completed)</h1><br>
+<h1>100 Days of ML (60% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | 44-53 |
@@ -300,3 +300,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day058.ipynb
 <i>30th January</i></br>
 Watched lectures from Week 3 of Convolutional Neural Networks Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day059.ipynb
+
+<b>Day 60 - Face Recognition</b><br>
+<i>31st January</i></br>
+Watched lectures from Week 4 of Convolutional Neural Networks Course on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day060.ipynb
