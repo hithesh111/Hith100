@@ -1,7 +1,7 @@
-<h1>100 Days of ML (61% completed)</h1><br>
+<h1>100 Days of ML (62% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | 44-53 |
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62! |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -310,3 +310,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day060.ipynb
 <i>1st February</i></br>
 Watched lectures from Week 4 of Convolutional Neural Networks Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day061.ipynb
+
+<b>Day 62 -  HackerEarth Airplane Accident Severity Challenge </b><br>
+<i>2nd February</i></br>
+Improved the score and rank in the Airplane Accident Severity Classification Challenge on Hackerearth, afer understanding the data better, doing better preprocessing and finding sweet spot of model parameters. Jumped from rank 330 (94.3 percentile) to 104 (98.2 percentile) on the leaderboard. Will upload the code once the competition is over.<br>
+Competition Details and More: https://hitheshai.blogspot.com/2020/01/100-days-of-ml-day-39-hackerearth-airplane-accident-severity-challenge.html
