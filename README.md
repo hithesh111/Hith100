@@ -316,6 +316,11 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day061.ipynb
 Improved the score and rank in the Airplane Accident Severity Classification Challenge on Hackerearth, afer understanding the data better, doing better preprocessing and finding sweet spot of model parameters. Jumped from rank 330 (94.3 percentile) to 104 (98.2 percentile) on the leaderboard. Will upload the code once the competition is over.<br>
 Competition Details and More: https://hitheshai.blogspot.com/2020/01/100-days-of-ml-day-39-hackerearth-airplane-accident-severity-challenge.html
 
+<b>Day 63 -  HackerEarth Airplane Accident Severity Challenge </b><br>
+<i>3rd February</i></br>
+Since many features roughly follow normal distribution(observed using plots) I tried using multivariate normal pdf to predict which of the four severity does the accident most likely belong. But results were terrible even on the training set(42% accuracy). No improvements on the leaderboard.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day063.ipynb
+
 <b>Day 64 - Getting Started with Tensorflow </b><br>
 <i>4th February</i></br>
 Completed Lessons 1 and 2 of Intro to Tensorflow for Deep Learning Course on Udacity and coded a simple Neural Network for a Linear Function using tensorflow.<br>
