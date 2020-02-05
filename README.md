@@ -325,3 +325,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day063.ipynb
 <i>4th February</i></br>
 Completed Lessons 1 and 2 of Intro to Tensorflow for Deep Learning Course on Udacity and coded a simple Neural Network for a Linear Function using tensorflow.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day064.ipynb
+
+<b>Day 65 - Dense Networks vs CNN for Image Classification</b><br>
+<i>5th February</i></br>
+Completed Lessons 3 and 4 of Intro to Tensorflow for Deep Learning Course on Udacity which are about using Dense Networks and CNN for Image Classification Task.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day064.ipynb
