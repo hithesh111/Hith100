@@ -329,4 +329,4 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day064.ipynb
 <b>Day 65 - Dense Networks vs CNN for Image Classification</b><br>
 <i>5th February</i></br>
 Completed Lessons 3 and 4 of Intro to Tensorflow for Deep Learning Course on Udacity which are about using Dense Networks and CNN for Image Classification Task.<br>
-More: https://github.com/hithesh111/Hith100/blob/master/100Days/day064.ipynb
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day065.ipynb
