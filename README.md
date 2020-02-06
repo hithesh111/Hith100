@@ -1,4 +1,4 @@
-<h1>100 Days of ML (65% completed)</h1><br>
+<h1>100 Days of ML (66% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62! | Day 63 | Day 64 |
@@ -330,3 +330,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day064.ipynb
 <i>5th February</i></br>
 Completed Lessons 3 and 4 of Intro to Tensorflow for Deep Learning Course on Udacity which are about using Dense Networks and CNN for Image Classification Task.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day065.ipynb
+
+<b>Day 66 -  Horses or Humans Image Classification</b><br>
+<i>6th February</i></br>
+Worked on training a CNN for classifying humans and horses using Tensorflow.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day066.ipynb
