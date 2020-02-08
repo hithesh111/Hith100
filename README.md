@@ -1,7 +1,7 @@
-<h1>100 Days of ML (67% completed)</h1><br>
+<h1>100 Days of ML (68% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62! | Day 63 | Day 64 | Day 67
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62! | Day 63 | Day 64 | Day 67 | 
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -340,3 +340,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day066.ipynb
 <i>7th February</i></br>
 Built a Deep Neural Network to classify severity of the Airplane Accident. Accuracy is around 94% on the dev set and got a 0.84 score on the competition test set which is not an improvement on the Gradient Boosting Model.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day067.ipynb
+
+<b>Day 68 - HackerEarth Airplane Accident Severity Challenge Part 5</b><br>
+<i>7th February</i></br>
+Tried using an ensemble of Deep Neural Networks to classify severity of the Airplane Accident<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day068.ipynb
