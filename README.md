@@ -313,8 +313,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day061.ipynb
 
 <b>Day 62 -  HackerEarth Airplane Accident Severity Challenge </b><br>
 <i>2nd February</i></br>
-Improved the score and rank in the Airplane Accident Severity Classification Challenge on Hackerearth, afer understanding the data better, doing better preprocessing and finding sweet spot of model parameters. Jumped from rank 330 (94.3 percentile) to 104 (98.2 percentile) on the leaderboard. Will upload the code once the competition is over.<br>
-More: More: https://github.com/hithesh111/Hith100/blob/master/100Days/day063.ipynb
+Improved the score and rank in the Airplane Accident Severity Classification Challenge on Hackerearth, afer understanding the data better, doing better preprocessing and finding sweet spot of model parameters. Jumped from rank 330 (94.3 percentile) to 104 (98.2 percentile) on the leaderboard.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day062.ipynb
 
 <b>Day 63 -  HackerEarth Airplane Accident Severity Challenge </b><br>
 <i>3rd February</i></br>
@@ -342,6 +342,11 @@ Built a Deep Neural Network to classify severity of the Airplane Accident. Accur
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day067.ipynb
 
 <b>Day 68 - HackerEarth Airplane Accident Severity Challenge Part 5</b><br>
-<i>7th February</i></br>
+<i>8th February</i></br>
 Tried using an ensemble of Deep Neural Networks to classify severity of the Airplane Accident<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day068.ipynb
+
+<b>Day 69 - CNN for Coloured Images</b><br>
+<i>9th February</i></br>
+Halfway through Lessons 5 of Intro to Tensorflow for Deep Learning Course on Udacity.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day069.ipynb
