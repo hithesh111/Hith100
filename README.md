@@ -1,4 +1,4 @@
-<h1>100 Days of ML (69% completed)</h1><br>
+<h1>100 Days of ML (70% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | 
@@ -350,3 +350,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day068.ipynb
 <i>9th February</i></br>
 Halfway through Lessons 5 of Intro to Tensorflow for Deep Learning Course on Udacity.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day069.ipynb
+
+<b>Day 70 - CNN for Coloured Images</b><br>
+<i>10th February</i></br>
+Did 2nd half of Lessons 5 of Intro to Tensorflow for Deep Learning Course on Udacity.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day070.ipynb
