@@ -1,7 +1,7 @@
-<h1>100 Days of ML (70% completed)</h1><br>
+<h1>100 Days of ML (71% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | 
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
@@ -355,3 +355,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day069.ipynb
 <i>10th February</i></br>
 Did 2nd half of Lessons 5 of Intro to Tensorflow for Deep Learning Course on Udacity.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day070.ipynb
+
+<b>Day 71 -  Image Augmentation and Classification Exercise</b><br>
+<i>11th February</i></br>
+Did Exercise of Lesson 5 of Intro to Tensorflow for Deep Learning Course on Udacity which is to classify flower images into 5 types.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day071.ipynb
