@@ -1,4 +1,4 @@
-<h1>100 Days of ML (74% completed)</h1><br>
+<h1>100 Days of ML (75% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 |
@@ -376,3 +376,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day073.ipynb
 <i>14th February</i></br>
 Started learning NLP from Dan Jurafsky's NLP Course on Youtube<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day074.ipynb
+
+<b>Day 75 - Minimum Edit Distance</b><br>
+<i>15th February</i></br>
+Section 3 of Dan Jurafsky's NLP Course on Youtube<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day075.ipynb
