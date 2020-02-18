@@ -1,4 +1,4 @@
-<h1>100 Days of ML (77% completed)</h1><br>
+<h1>100 Days of ML (78% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 |
@@ -391,3 +391,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day076.ipynb
 <i>17th February</i></br>
 Section 4 of Dan Jurafsky's NLP Course on Youtube<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day077.ipynb
+
+<b>Day 78 - Spelling Correction</b><br>
+<i>18th February</i></br>
+Section 5 of Dan Jurafsky's NLP Course on Youtube<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day078.ipynb
