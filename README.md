@@ -397,7 +397,7 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day077.ipynb
 Section 5 of Dan Jurafsky's NLP Course on Youtube<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day078.ipynb
 
-<b>Day 79 - </b><br>
+<b>Day 79 -  Text Classification and Naive Bayes </b><br>
 <i>19th February</i></br>
 Section 6 of Dan Jurafsky's NLP Course on Youtube<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day079.ipynb
