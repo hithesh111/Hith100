@@ -401,3 +401,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day078.ipynb
 <i>19th February</i></br>
 Section 6 of Dan Jurafsky's NLP Course on Youtube<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day079.ipynb
+
+<b>Day 80 -  Text Classification using NLTK </b><br>
+<i>20th February</i></br>
+Watched videos from Sentdex's NLP with NLTK Course on Youtube<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day080.ipynb
