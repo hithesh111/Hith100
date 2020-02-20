@@ -1,4 +1,4 @@
-<h1>100 Days of ML (79% completed)</h1><br>
+<h1>100 Days of ML (80% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 |
