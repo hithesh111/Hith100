@@ -1,4 +1,4 @@
-<h1>100 Days of ML (84% completed)</h1><br>
+<h1>100 Days of ML (85% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81
@@ -426,3 +426,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day083.ipynb
 <i>24th February</i></br>
 Section 8 of Dan Jurafsky's NLP Course on Youtube<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day084.ipynb
+
+<b>Day 85 - Named Entity Recognition</b><br>
+<i>25th February</i></br>
+Section 9 of Dan Jurafsky's NLP Course on Youtube<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day085.ipynb
