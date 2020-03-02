@@ -1,4 +1,4 @@
-<h1>100 Days of ML (90% completed)</h1><br>
+<h1>100 Days of ML (91% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81
@@ -456,3 +456,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day089.ipynb
 <i>1st March</i></br>
 Section 11 of Dan Jurafsky's NLP Course on Youtube<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day090.ipynb
+
+<b>Day 91 - Maximum Entropy Model 2</b><br>
+<i>2nd March</i></br>
+Section 12 of Dan Jurafsky's NLP Course on Youtube<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day091.ipynb
