@@ -1,6 +1,6 @@
 <h1>100 Days of ML (91% completed)</h1><br>
 
-<b>Covered so far:</b></br>
+<h2>Covered so far:</h2></br>
 <ul>
 <li>Machine Learning (Coursera course by Andrew NG)</li></br>
 <li>Tree Based Models (Statquest Youtube Channel by Josh Starmer)</li></br>
@@ -11,33 +11,41 @@
 <li>NLP (Stanford NLP course by Jurafsky)</li></br>
 </ul>
 
-<b>Languages, Tools and Libraries familiarised:</b></br>
-Python</br>
-Numpy</br>
-Pandas</br>
-Seaborn</br>
-Scikit-learn</br>
+<h2>Languages, Tools and Libraries familiarised:</h2></br>
+<ul>
+<li>Python</li></br>
+<li>Numpy</li></br>
+<li>Pandas</li></br>
+<li>Seaborn</li></br>
+<li>Scikit-learn</li></br>
+</ul>
 
 Note: All the resources used are available for free on the internet.</br>
 
-<b>Upcoming Projects:</b></br>
-Sentiment Analysis</br>
-Recommender Engine</br>
-Chatbot</br>
-Idenitfying Handwritten Text in Regional Languages</br>
+<h2>Upcoming Projects:</h2></br>
+<ul>
+<li>Sentiment Analysis</li></br>
+<li>Recommender Engine</li></br>
+<li>Chatbot</li></br>
+<li>Idenitfying Handwritten Text in Regional Languages</li></br>
+</ul>
 
-<b>Topics to dive further into:</b></br>
-Support Vector Machines</br>
-Principal Component Analysis</br>
-General Adversarial Networks</br>
-Image Style Transfer</br>
-Question Answering</br>
+<h2>Topics to learn more about: </h2></br>
+<ul>
+<li>Support Vector Machines</li></br>
+<li>Principal Component Analysis</li></br>
+<li>General Adversarial Networks</li></br>
+<li>Image Style Transfer</li></br>
+<li>Question Answering</li></br>
+</ul>
 
-<b>Languages, Tools and Libraries to familiarise: </b></br>
-R</br>
-Tensorflow</br>
-Keras</br>
-Pytorch</br>
+<h2>Languages, Tools and Libraries to familiarise: </h2></br>
+<ul>
+<li>R</li></br>
+<li>Tensorflow</li></br>
+<li>Keras</li></br>
+<li>Pytorch</li></br>
+</ul>
 
 </b>Mini-Projects, Competitions and Implementations: </b></br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 |
