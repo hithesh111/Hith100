@@ -55,6 +55,7 @@ Note: All the resources used are available for free on the internet.</br>
 
 <h2>Mini-Projects, Competitions and Implementations: </h2>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 |
+<br>
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
