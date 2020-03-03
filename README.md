@@ -1,43 +1,44 @@
 <h1>100 Days of ML (91% completed)</h1><br>
 
-Mini-Projects, Competitions and Implementations: <br>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 |
-
 <b>Covered so far</b>
-Machine Learning (Coursera course by Andrew NG)
-Tree Based Models (Statquest Youtube Channel by Josh Starmer)
-Data Competitions (Regression, Classification problems on Kaggle and Hackerearth)
-Deep Learning (4 courses in the Deep Learning Specialization by deeplearning.ai)
-Data Visualisation using Seaborn (Data Talks Youtube Channel)
-Deep Learning using Tensorflow (Udacity course)
-NLP (Stanford NLP course by Jurafskhaty)
+Machine Learning (Coursera course by Andrew NG)</br>
+Tree Based Models (Statquest Youtube Channel by Josh Starmer)</br>
+Data Competitions (Regression, Classification problems on Kaggle and Hackerearth)</br>
+Deep Learning (4 courses in the Deep Learning Specialization by deeplearning.ai)</br>
+Data Visualisation using Seaborn (Data Talks Youtube Channel)</br>
+Deep Learning using Tensorflow (Udacity course)</br>
+NLP (Stanford NLP course by Jurafsky)</br>
 
 <b>Languages, Tools and Libraries familiarised</b>
-Python
-Numpy
-Pandas
-Seaborn
-Scikit-learn
+Python</br>
+Numpy</br>
+Pandas</br>
+Seaborn</br>
+Scikit-learn</br>
 
-Note: All the resources used are available for free on the internet.
+Note: All the resources used are available for free on the internet.</br>
 
 <b>Upcoming Projects</b>
-Sentiment Analysis
-Recommender Engine
-Chatbot
+Sentiment Analysis</br>
+Recommender Engine</br>
+Chatbot</br>
+Idenitfying Handwritten Text in Regional Languages</br>
 
 <b>Topics to dive further into:</b>
-Support Vector Machine
-Principal Component Analysis
-General Adversarial Networks
-Image Style Transfer
-Question Answering
+Support Vector Machines</br>
+Principal Component Analysis</br>
+General Adversarial Networks</br>
+Image Style Transfer</br>
+Question Answering</br>
 
 <b>Languages, Tools and Libraries to familiarise</b>
-R
-Tensorflow
-Keras
-Pytorch
+R</br>
+Tensorflow</br>
+Keras</br>
+Pytorch</br>
+
+</b>Mini-Projects, Competitions and Implementations: </b>
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
