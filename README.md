@@ -1,6 +1,6 @@
 <h1>100 Days of ML (91% completed)</h1><br>
 
-<h2>Covered so far:</h2></br>
+<h2>Covered so far:</h2>
 <ul>
 <li>Machine Learning (Coursera course by Andrew NG)</li></br>
 <li>Tree Based Models (Statquest Youtube Channel by Josh Starmer)</li></br>
@@ -17,7 +17,7 @@
 <li>NLP (Stanford NLP course by Jurafsky)</li></br>
 </ul>
 
-<h2>Languages, Tools and Libraries familiarised:</h2></br>
+<h2>Languages, Tools and Libraries familiarised:</h2>
 <ul>
 <li>Python</li></br>
 <li>Numpy</li></br>
@@ -28,7 +28,7 @@
 
 Note: All the resources used are available for free on the internet.</br>
 
-<h2>Upcoming Projects:</h2></br>
+<h2>Upcoming Projects:</h2>
 <ul>
 <li>Sentiment Analysis</li></br>
 <li>Recommender Engine</li></br>
@@ -36,7 +36,7 @@ Note: All the resources used are available for free on the internet.</br>
 <li>Idenitfying Handwritten Letters in Regional Languages</li></br>
 </ul>
 
-<h2>Topics to learn more about: </h2></br>
+<h2>Topics to learn more about: </h2>
 <ul>
 <li>Support Vector Machines</li></br>
 <li>Principal Component Analysis</li></br>
@@ -45,7 +45,7 @@ Note: All the resources used are available for free on the internet.</br>
 <li>Question Answering</li></br>
 </ul>
 
-<h2>Languages, Tools and Libraries to familiarise: </h2></br>
+<h2>Languages, Tools and Libraries to familiarise: </h2>
 <ul>
 <li>R</li></br>
 <li>Tensorflow</li></br>
@@ -53,7 +53,7 @@ Note: All the resources used are available for free on the internet.</br>
 <li>Pytorch</li></br>
 </ul>
 
-<h2>Mini-Projects, Competitions and Implementations: </h2></br>
+<h2>Mini-Projects, Competitions and Implementations: </h2>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
