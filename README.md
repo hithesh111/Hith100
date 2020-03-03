@@ -1,6 +1,6 @@
 <h1>100 Days of ML (91% completed)</h1><br>
 
-<b>Covered so far</b>
+<b>Covered so far:</b></br>
 Machine Learning (Coursera course by Andrew NG)</br>
 Tree Based Models (Statquest Youtube Channel by Josh Starmer)</br>
 Data Competitions (Regression, Classification problems on Kaggle and Hackerearth)</br>
@@ -9,7 +9,7 @@ Data Visualisation using Seaborn (Data Talks Youtube Channel)</br>
 Deep Learning using Tensorflow (Udacity course)</br>
 NLP (Stanford NLP course by Jurafsky)</br>
 
-<b>Languages, Tools and Libraries familiarised</b>
+<b>Languages, Tools and Libraries familiarised:</b></br>
 Python</br>
 Numpy</br>
 Pandas</br>
@@ -18,26 +18,26 @@ Scikit-learn</br>
 
 Note: All the resources used are available for free on the internet.</br>
 
-<b>Upcoming Projects</b>
+<b>Upcoming Projects:</b></br>
 Sentiment Analysis</br>
 Recommender Engine</br>
 Chatbot</br>
 Idenitfying Handwritten Text in Regional Languages</br>
 
-<b>Topics to dive further into:</b>
+<b>Topics to dive further into:</b></br>
 Support Vector Machines</br>
 Principal Component Analysis</br>
 General Adversarial Networks</br>
 Image Style Transfer</br>
 Question Answering</br>
 
-<b>Languages, Tools and Libraries to familiarise</b>
+<b>Languages, Tools and Libraries to familiarise: </b></br>
 R</br>
 Tensorflow</br>
 Keras</br>
 Pytorch</br>
 
-</b>Mini-Projects, Competitions and Implementations: </b>
+</b>Mini-Projects, Competitions and Implementations: </b></br>
 | Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 |
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
