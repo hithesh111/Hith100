@@ -5,13 +5,13 @@
 <li>Machine Learning (Coursera course by Andrew NG)</li></br>
 <li>Tree Based Models (Statquest Youtube Channel by Josh Starmer)</li></br>
 <li>Data Competitions (Regression, Classification problems on Kaggle and Hackerearth)</li></br>
-<li>Deep Learning (4 courses in the Deep Learning Specialization by deeplearning.ai)</li></br>
+<li>Deep Learning (4 courses in the Deep Learning Specialization by deeplearning.ai)</li>
 <ul>
  <li>Neural Networks and Deep Learning</li>
  <li>Deep Neural Networks: Hyperparameter Tuning, Regularisation and Optimisation</li>
  <li>Structuring Machine Learning Projects</li>
  <li>Convolutional Neural Networks</li>
-</ul
+</ul><br>
 <li>Data Visualisation using Seaborn (Data Talks Youtube Channel)</li></br>
 <li>Deep Learning using Tensorflow (Udacity course)</li></br>
 <li>NLP (Stanford NLP course by Jurafsky)</li></br>
