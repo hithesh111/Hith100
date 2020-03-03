@@ -51,6 +51,7 @@ Note: All the resources used are available for free on the internet.</br>
 <li>Tensorflow</li></br>
 <li>Keras</li></br>
 <li>Pytorch</li></br>
+<li>SQL</li></br>
 </ul>
 
 <h2>Mini-Projects, Competitions and Implementations: </h2>
