@@ -1,13 +1,15 @@
 <h1>100 Days of ML (91% completed)</h1><br>
 
 <b>Covered so far:</b></br>
-Machine Learning (Coursera course by Andrew NG)</br>
-Tree Based Models (Statquest Youtube Channel by Josh Starmer)</br>
-Data Competitions (Regression, Classification problems on Kaggle and Hackerearth)</br>
-Deep Learning (4 courses in the Deep Learning Specialization by deeplearning.ai)</br>
-Data Visualisation using Seaborn (Data Talks Youtube Channel)</br>
-Deep Learning using Tensorflow (Udacity course)</br>
-NLP (Stanford NLP course by Jurafsky)</br>
+<ul>
+<li>Machine Learning (Coursera course by Andrew NG)</li></br>
+<li>Tree Based Models (Statquest Youtube Channel by Josh Starmer)</li></br>
+<li>Data Competitions (Regression, Classification problems on Kaggle and Hackerearth)</li></br>
+<li>Deep Learning (4 courses in the Deep Learning Specialization by deeplearning.ai)</li></br>
+<li>Data Visualisation using Seaborn (Data Talks Youtube Channel)</li></br>
+<li>Deep Learning using Tensorflow (Udacity course)</li></br>
+<li>NLP (Stanford NLP course by Jurafsky)</li></br>
+</ul>
 
 <b>Languages, Tools and Libraries familiarised:</b></br>
 Python</br>
