@@ -1,7 +1,43 @@
 <h1>100 Days of ML (91% completed)</h1><br>
 
 Mini-Projects, Competitions and Implementations: <br>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 |
+
+<b>Covered so far</b>
+Machine Learning (Coursera course by Andrew NG)
+Tree Based Models (Statquest Youtube Channel by Josh Starmer)
+Data Competitions (Regression, Classification problems on Kaggle and Hackerearth)
+Deep Learning (4 courses in the Deep Learning Specialization by deeplearning.ai)
+Data Visualisation using Seaborn (Data Talks Youtube Channel)
+Deep Learning using Tensorflow (Udacity course)
+NLP (Stanford NLP course by Jurafskhaty)
+
+<b>Languages, Tools and Libraries familiarised</b>
+Python
+Numpy
+Pandas
+Seaborn
+Scikit-learn
+
+Note: All the resources used are available for free on the internet.
+
+<b>Upcoming Projects</b>
+Sentiment Analysis
+Recommender Engine
+Chatbot
+
+<b>Topics to dive further into:</b>
+Support Vector Machine
+Principal Component Analysis
+General Adversarial Networks
+Image Style Transfer
+Question Answering
+
+<b>Languages, Tools and Libraries to familiarise</b>
+R
+Tensorflow
+Keras
+Pytorch
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
