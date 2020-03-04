@@ -33,7 +33,7 @@ Note: All the resources used are available for free on the internet.</br>
 <li>Sentiment Analysis</li></br>
 <li>Recommender Engine</li></br>
 <li>Chatbot</li></br>
-<li>Idenitfying Handwritten Letters in Regional Languages</li></br>
+<li>Identifying Handwritten Letters in Regional Languages (including Data Augmentation) </li></br>
 </ul>
 
 <h2>Topics to learn more about: </h2>
