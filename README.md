@@ -14,7 +14,7 @@
 </ul><br>
 <li>Data Visualisation using Seaborn (Data Talks Youtube Channel)</li></br>
 <li>Deep Learning using Tensorflow (Udacity course)</li></br>
-<li>NLP (Stanford NLP course by Jurafsky)</li></br>
+<li>NLP (till Week 12 of Stanford NLP course by Jurafsky)</li></br>
 </ul>
 
 <h2>Languages, Tools and Libraries familiarised:</h2>
