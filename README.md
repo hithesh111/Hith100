@@ -43,6 +43,7 @@ Note: All the resources used are available for free on the internet.</br>
 <li>General Adversarial Networks</li></br>
 <li>Image Style Transfer</li></br>
 <li>Question Answering</li></br>
+<li>Time Series Analysis</li></br>
 </ul>
 
 <h2>Languages, Tools and Libraries to familiarise: </h2>
