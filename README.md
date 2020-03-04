@@ -519,6 +519,6 @@ Section 12 of Dan Jurafsky's NLP Course on Youtube<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day091.ipynb
 
 <b>Day 92 - Parsing</b><br>
-<i>2nd March</i></br>
+<i>3rd March</i></br>
 Section 13 of Dan Jurafsky's NLP Course on Youtube and updated this readme to include a summary and upcoming learning plans.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day092.ipynb
