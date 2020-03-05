@@ -1,4 +1,4 @@
-<h1>100 Days of ML (93% completed)</h1><br>
+<h1>100 Days of ML (94% completed)</h1><br>
 
 <h2>Covered so far:</h2>
 <ul>
@@ -525,5 +525,10 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day092.ipynb
 
 <b>Day 93 - Grammar Transfer</b><br>
 <i>4th March</i></br>
-Section 15 of Dan Jurafsky's NLP Course on Youtube and updated this readme to include a summary and upcoming learning plans.<br>
+Section 15 of Dan Jurafsky's NLP Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day093.ipynb
+
+<b>Day 93 - CKY </b><br>
+<i>5th March</i></br>
+Section 15 of Dan Jurafsky's NLP Course on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day094.ipynb
