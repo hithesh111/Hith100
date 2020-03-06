@@ -1,4 +1,4 @@
-<h1>100 Days of ML (94% completed)</h1><br>
+<h1>100 Days of ML (95% completed)</h1><br>
 
 <h2>Covered so far:</h2>
 <ul>
