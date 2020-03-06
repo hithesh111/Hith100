@@ -532,3 +532,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day093.ipynb
 <i>5th March</i></br>
 Section 15 of Dan Jurafsky's NLP Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day094.ipynb
+
+<b>Day 95 -  Tokenizing, Stopwords and Stemming </b><br>
+<i>6th March</i></br>
+Watched lectures from sentdex's NLP with Python and NLTK course on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day095.ipynb
