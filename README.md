@@ -528,7 +528,7 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day092.ipynb
 Section 15 of Dan Jurafsky's NLP Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day093.ipynb
 
-<b>Day 93 - CKY </b><br>
+<b>Day 94 - CKY </b><br>
 <i>5th March</i></br>
 Section 15 of Dan Jurafsky's NLP Course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day094.ipynb
