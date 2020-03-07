@@ -1,4 +1,4 @@
-<h1>100 Days of ML (95% completed)</h1><br>
+<h1>100 Days of ML (96% completed)</h1><br>
 
 <h2>Covered so far:</h2>
 <ul>
@@ -57,7 +57,7 @@ Note: All the resources used are available for free on the internet.</br>
 </ul>
 
 <h2>Mini-Projects, Competitions and Implementations: </h2>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 |
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 | Day 96 |
 <br><br>
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
@@ -538,3 +538,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day094.ipynb
 <i>6th March</i></br>
 Watched lectures from sentdex's NLP with Python and NLTK course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day095.ipynb
+
+<b>Day 96 - Preprocessing, POS Tagging, Chunking</b><br>
+<i>7th March</i></br>
+Implemented Preprocessing Methods like Tokenization, Stemming and Stopword Removal. Watched lectures from sentdex's NLP with Python and NLTK course on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day096.ipynb
