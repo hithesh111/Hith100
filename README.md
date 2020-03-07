@@ -48,6 +48,7 @@ Note: All the resources used are available for free on the internet.</br>
 
 <h2>Languages, Tools and Libraries to familiarise: </h2>
 <ul>
+<li>NLTK</li></br>
 <li>R</li></br>
 <li>Tensorflow</li></br>
 <li>Keras</li></br>
