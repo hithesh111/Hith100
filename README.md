@@ -1,4 +1,4 @@
-<h1>100 Days of ML (96% completed)</h1><br>
+<h1>100 Days of ML (97% completed)</h1><br>
 
 <h2>Covered so far:</h2>
 <ul>
@@ -543,3 +543,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day095.ipynb
 <i>7th March</i></br>
 Implemented Preprocessing Methods like Tokenization, Stemming and Stopword Removal. Watched lectures from sentdex's NLP with Python and NLTK course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day096.ipynb
+
+<b>Day 97 - Named Entity Recognition, Lemmatization, NLTK Corpora</b><br>
+<i>8th March</i></br>
+Watched lectures from sentdex's NLP with Python and NLTK course on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day097.ipynb
