@@ -1,4 +1,4 @@
-<h1>100 Days of ML (97% completed)</h1><br>
+<h1>100 Days of ML (98% completed)</h1><br>
 
 <h2>Covered so far:</h2>
 <ul>
@@ -548,3 +548,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day096.ipynb
 <i>8th March</i></br>
 Watched lectures from sentdex's NLP with Python and NLTK course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day097.ipynb
+
+<b>Day 98- Wordnet</b><br>
+<i>9th March</i></br>
+Watched lectures from sentdex's NLP with Python and NLTK course on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day098.ipynb
