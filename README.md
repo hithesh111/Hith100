@@ -1,4 +1,4 @@
-<h1>100 Days of ML (98% completed)</h1><br>
+<h1>100 Days of ML (99% completed)</h1><br>
 
 <h2>Covered so far:</h2>
 <ul>
@@ -56,8 +56,8 @@ Note: All the resources used are available for free on the internet.</br>
 <li>SQL</li></br>
 </ul>
 
-<h2>Mini-Projects, Competitions and Implementations: </h2>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 | Day 96 |
+<h2>Code Available: </h2>
+| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 | Day 96 | Day 99 |
 <br><br>
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
@@ -553,3 +553,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day097.ipynb
 <i>9th March</i></br>
 Watched lectures from sentdex's NLP with Python and NLTK course on Youtube.<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day098.ipynb
+
+<b>Day 99- Chat vs Article Text Classifier</b><br>
+<i>10th March</i></br>
+Built a text classifier (into chat and article) very similar to the one discussed in the article 'Naive Bayes Classifier for Text Classification' by Jaya Aiyappan (classifying sentences into questions and statements.)<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day099.ipynb
