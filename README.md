@@ -1,6 +1,6 @@
 <h1>100 Days of ML (100% completed)</h1>
 
-<h2>Covered so far:</h2>
+<h2>Covered:</h2>
 <ul>
 <li>Machine Learning (Coursera course by Andrew NG)</li></br>
 <li>Tree Based Models (Statquest Youtube Channel by Josh Starmer)</li></br>
