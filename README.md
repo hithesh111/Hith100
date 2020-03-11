@@ -24,7 +24,7 @@
 <li>Pandas</li></br>
 <li>Seaborn</li></br>
 <li>Scikit-learn</li></br>
-<li>NLTL</li></br>
+<li>NLTK</li></br>
 </ul>
 
 Note: All the resources used are available for free on the internet.</br>
