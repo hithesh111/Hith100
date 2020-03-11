@@ -1,4 +1,4 @@
-<h1>100 Days of ML (99% completed)</h1><br>
+<h1>100 Days of ML (100% completed)</h1><br>
 
 <h2>Covered so far:</h2>
 <ul>
@@ -558,3 +558,8 @@ More: https://github.com/hithesh111/Hith100/blob/master/100Days/day098.ipynb
 <i>10th March</i></br>
 Built a text classifier (into chat and article) very similar to the one discussed in the article 'Naive Bayes Classifier for Text Classification' by Jaya Aiyappan (classifying sentences into questions and statements.)<br>
 More: https://github.com/hithesh111/Hith100/blob/master/100Days/day099.ipynb
+
+<b>Day 100 - Saving Models, Scikit-Learn Incorporation</b><br>
+<i>11th March</i></br>
+Watched lectures from sentdex's NLP with Python and NLTK course on Youtube.<br>
+More: https://github.com/hithesh111/Hith100/blob/master/100Days/day100.ipynb
