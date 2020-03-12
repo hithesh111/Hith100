@@ -14,7 +14,7 @@
  <li>Convolutional Neural Networks</li>
 </ul><br>
 <li>Data Visualisation using Seaborn (Data Talks Youtube Channel)</li></br>
-<li>Deep Learning using Tensorflow (Udacity course)</li></br>
+<li>Intro to Tensorflow for Deep Learning (Udacity course)</li></br>
 <li>NLP (till Week 13 of Stanford NLP course by Jurafsky)</li></br>
 </ul>
 
