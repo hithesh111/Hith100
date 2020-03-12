@@ -3,6 +3,7 @@
 <h2>Covered:</h2>
 <ul>
 <li>Machine Learning (Coursera course by Andrew NG)</li></br>
+<li>Feature Engineering (How to Win a Data Science Competition course by National Research University Higher School of Economics)</li></br>
 <li>Tree Based Models (Statquest Youtube Channel by Josh Starmer)</li></br>
 <li>Data Competitions (Regression, Classification problems on Kaggle and Hackerearth)</li></br>
 <li>Deep Learning (4 courses in the Deep Learning Specialization by deeplearning.ai)</li>
