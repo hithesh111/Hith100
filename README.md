@@ -1,6 +1,6 @@
 <h1>100 Days of ML (100% completed)</h1>
 
-Beyond 100 Days Repo : https://github.com/hithesh111/HithBeyond100
+Beyond 100 Days Repository : https://github.com/hithesh111/HithBeyond100
 
 <h2>Covered:</h2>
 <ul>
