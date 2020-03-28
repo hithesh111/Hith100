@@ -59,25 +59,22 @@ Note: All the resources used are available for free on the internet.</br>
 <li>SQL</li></br>
 </ul>
 
-<h2>Code Available: </h2>
+<h2>Mini-projects, Implementations, Illustrations and Competition Submissions (For quick reference): </h2>
 <ul>
- <li>Day 4</li>
- <li>Day 7</li>
- <li>Day 18</li>
- <li>Day 27</li>
- <li>Day 34</li>
- <li>Day 36</li>
- <li>Day 39!</li>
- <li>Day 40</li>
- <li>Days 44-53</li>
- <li>Day 62</li>
- <li>Day 63</li>
- <li>Day 64</li>
- <li>Day 67</li>
- <li>Day 71</li>
- <li>Day 81</li>
- <li>Day 96</li>
- <li>Day 99</li> 
+ <li>K-Means Clustering (FIFA 19 Dataset) - Day 4</li>
+ <li>Anomaly Detection (Credit Card Transaction Fraud Detection) - Day 7</li>
+ <li>Kaggle House Price Prediction Competition - Day 18</li>
+ <li>Linear Regression from Scratch - Day 27</li>
+ <li>Logistic Regression from Scratch - Day 34</li>
+ <li>Polynomial Regression from Scratch - Day 36</li>
+ <li>HackerEarth Airplane Accident Severity Challenge - Days 39,62,63,67</li>
+ <li>Kaggle Titanic Disaster Survival Challenge - Day 40</li>
+ <li>Data Visualization using Seaborn Library - Days 44-53</li>
+ <li>Simple Neural Network using Tensorflow - Days 64</li>
+ <li>Image Augmentation and Classification - Day 71</li>
+ <li>Text Classification using NLTK - Day 81</li>
+ <li>Preprocessing, POS Tagging, Chunking - Day 96</li>
+ <li>Chat vs Article Text Classifier - Day 99</li> 
 </ul>
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
