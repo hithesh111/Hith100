@@ -60,8 +60,25 @@ Note: All the resources used are available for free on the internet.</br>
 </ul>
 
 <h2>Code Available: </h2>
-| Day 4 | Day 7 | Day 18 | Day 27 | Day 34 | Day 36 | Day 39! | Day 40 | Days 44-53 | Day 62 | Day 63 | Day 64 | Day 67 | Day 71 | Day 81 | Day 96 | Day 99 |
-<br><br>
+<ul>
+ <li>Day 4</li>
+ <li>Day 7</li>
+ <li>Day 18</li>
+ <li>Day 27</li>
+ <li>Day 34</li>
+ <li>Day 36</li>
+ <li>Day 39!</li>
+ <li>Day 40</li>
+ <li>Days 44-53</li>
+ <li>Day 62</li>
+ <li>Day 63</li>
+ <li>Day 64</li>
+ <li>Day 67</li>
+ <li>Day 71</li>
+ <li>Day 81</li>
+ <li>Day 96</li>
+ <li>Day 99</li> 
+</ul>
 
 <b>Day 1 - Linear Regression, Logistic Regression and Neural Networks.</b><br>
 <i>3rd December</i></br>
