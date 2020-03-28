@@ -32,33 +32,6 @@ Beyond 100 Days Repository : https://github.com/hithesh111/HithBeyond100
 
 Note: All the resources used are available for free on the internet.</br>
 
-<h2>Upcoming Projects:</h2>
-<ul>
-<li>Sentiment Analysis</li></br>
-<li>Recommender Engine</li></br>
-<li>Chatbot</li></br>
-<li>Identifying Handwritten Letters in Regional Languages (including Data Augmentation) </li></br>
-</ul>
-
-<h2>Topics to learn more about: </h2>
-<ul>
-<li>Support Vector Machines</li></br>
-<li>Principal Component Analysis</li></br>
-<li>General Adversarial Networks</li></br>
-<li>Image Style Transfer</li></br>
-<li>Question Answering</li></br>
-<li>Time Series Analysis</li></br>
-</ul>
-
-<h2>Languages, Tools and Libraries to familiarise: </h2>
-<ul>
-<li>R</li></br>
-<li>Tensorflow</li></br>
-<li>Keras</li></br>
-<li>Pytorch</li></br>
-<li>SQL</li></br>
-</ul>
-
 <h2>Mini-projects, Implementations, Illustrations and Competition Submissions (For quick reference): </h2>
 <ul>
  <li>K-Means Clustering (FIFA 19 Dataset) - Day 4</li>
