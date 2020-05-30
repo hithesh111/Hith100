@@ -32,7 +32,7 @@ Beyond 100 Days Repository : https://github.com/hithesh111/HithBeyond100
 
 Note: All the resources used are available for free on the internet.</br>
 
-<h2>Mini-projects, Implementations, Illustrations and Competition Submissions (For quick reference): </h2>
+<h2>Highlights (Mini-projects, Implementations, Illustrations and Competition Submissions): </h2>
 <ul>
  <li>K-Means Clustering (FIFA 19 Dataset) - Day 4</li>
  <li>Anomaly Detection (Credit Card Transaction Fraud Detection) - Day 7</li>
