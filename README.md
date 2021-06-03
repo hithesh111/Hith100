@@ -1,4 +1,5 @@
 <h1>100 Days of ML (100% completed)</h1>
+Dec 3, 2019 to 11 Mar, 2020
 
 Beyond 100 Days Repository : https://github.com/hithesh111/HithBeyond100
 
